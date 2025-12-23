@@ -221,7 +221,7 @@ Antes de decir que el ambiente esta listo:
 - [ ] Backend responde (puede ser 404 en root, pero no connection refused)
 - [ ] Login funciona desde el navegador (no solo curl)
 - [ ] Hot-reload del frontend funciona (modificar un archivo y ver el cambio)
-- [ ] Documentacion DOCKER.md creada con instrucciones claras
+- [ ] Documentacion DOCKER.md creada con instrucciones claras y sin referencias a Claude Code
 
 ---
 
